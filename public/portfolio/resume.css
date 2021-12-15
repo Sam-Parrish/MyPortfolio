@@ -1,0 +1,91 @@
+.container-fluid{
+    font-size: 180%;
+    color: black;
+    font-weight: bolder;
+}
+
+.nav-item{
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.navbar{
+    background-color:  rgb(56, 56, 56);
+    border-style: solid;
+    border-color: black;
+    color: white;
+}
+
+.body{
+    background-color: rgb(179, 231, 255);
+    background-image: url("images/background2.jpg");
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2em;
+    background-color:  rgb(56, 56, 56);
+    border-color: black;
+    border-style: solid;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+
+.button1{
+    background-color: rgb(134, 134, 134);
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 0.2em;
+}
+
+
+.button2{
+    background-color: rgb(134, 134, 134);
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 0.2em;
+}
+
+
+.button3{
+    background-color: rgb(209, 167, 75);
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 0.2em;
+}
+
+
+.button4{
+    background-color: rgb(134, 134, 134);
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 0.2em;
+}
+
+
+.button5{
+    background-color: rgb(134, 134, 134);
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 0.2em;
+}
+
+.studentInfo{
+    color: white;
+    background-color: rgb(102, 102, 102);
+    border-style: solid;
+    border-color: black;
+    border-radius: 1em;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.picture{
+    border-radius: 0.8em;
+}
